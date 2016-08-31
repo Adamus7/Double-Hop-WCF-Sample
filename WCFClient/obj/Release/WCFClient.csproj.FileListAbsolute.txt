@@ -1,0 +1,6 @@
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\bin\WCFClient.dll.config
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\bin\WCFClient.dll
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\bin\WCFClient.pdb
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\obj\Release\WCFClient.csprojResolveAssemblyReference.cache
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\obj\Release\WCFClient.dll
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCFClient\obj\Release\WCFClient.pdb

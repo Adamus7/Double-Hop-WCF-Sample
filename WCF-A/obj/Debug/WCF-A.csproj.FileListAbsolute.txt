@@ -1,0 +1,6 @@
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Debug\WCF-A.csprojResolveAssemblyReference.cache
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.dll.config
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.dll
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.pdb
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Debug\WCF-A.dll
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Debug\WCF-A.pdb

@@ -1,0 +1,6 @@
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.dll.config
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.pdb
+C:\Users\adamus\Desktop\WCF-A\WCF-B\obj\Release\WCF-B.csprojResolveAssemblyReference.cache
+C:\Users\adamus\Desktop\WCF-A\WCF-B\obj\Release\WCF-B.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-B\obj\Release\WCF-B.pdb

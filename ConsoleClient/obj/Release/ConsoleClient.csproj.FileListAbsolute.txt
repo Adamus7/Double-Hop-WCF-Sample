@@ -1,0 +1,11 @@
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\ConsoleClient\bin\Release\ConsoleClient.exe.config
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\ConsoleClient\bin\Release\ConsoleClient.exe
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\ConsoleClient\bin\Release\ConsoleClient.pdb
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\ConsoleClient\obj\Release\ConsoleClient.exe
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\ConsoleClient\obj\Release\ConsoleClient.pdb
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\bin\Release\ConsoleClient.exe.config
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\bin\Release\ConsoleClient.exe
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\bin\Release\ConsoleClient.pdb
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\obj\Release\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\obj\Release\ConsoleClient.exe
+C:\Users\adamus\Desktop\WCF-A\ConsoleClient\obj\Release\ConsoleClient.pdb

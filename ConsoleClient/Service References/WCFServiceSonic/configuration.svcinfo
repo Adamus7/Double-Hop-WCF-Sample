@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.WSHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;DelegationService&quot; /&gt;" bindingType="wsHttpBinding" name="DelegationService" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://10.157.19.201/mywcfservice/Service1.svc&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;DelegationService&quot; contract=&quot;WCFServiceSonic.IService1&quot; name=&quot;DelegationService&quot;&gt;&lt;identity&gt;&lt;servicePrincipalName value=&quot;host/ws2.yuray2.lab&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://10.157.19.201/mywcfservice/Service1.svc&quot; binding=&quot;wsHttpBinding&quot; bindingConfiguration=&quot;DelegationService&quot; contract=&quot;WCFServiceSonic.IService1&quot; name=&quot;DelegationService&quot;&gt;&lt;identity&gt;&lt;servicePrincipalName value=&quot;host/ws2.yuray2.lab&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" contractName="WCFServiceSonic.IService1" name="DelegationService" />
+  </endpoints>
+</configurationSnapshot>

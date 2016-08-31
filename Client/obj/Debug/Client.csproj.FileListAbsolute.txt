@@ -1,0 +1,18 @@
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Debug\Client.exe.config
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Debug\Client.exe
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Debug\Client.pdb
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.Form1.resources
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.exe
+c:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Debug\Client.pdb
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Debug\Client.exe.config
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.exe
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.pdb
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Debug\Client.exe
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Debug\Client.pdb
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.Form1.resources
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Debug\Client.csproj.GenerateResource.Cache

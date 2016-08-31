@@ -1,0 +1,16 @@
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Release\Client.exe.config
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Release\Client.exe
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\bin\Release\Client.pdb
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Release\Client.Form1.resources
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Release\Client.exe
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\Client\obj\Release\Client.pdb
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Release\Client.exe
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Release\Client.exe.config
+C:\Users\adamus\Desktop\WCF-A\Client\bin\Release\Client.pdb
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Release\Client.Form1.resources
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Release\Client.exe
+C:\Users\adamus\Desktop\WCF-A\Client\obj\Release\Client.pdb

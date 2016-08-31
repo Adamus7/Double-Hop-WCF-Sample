@@ -1,0 +1,12 @@
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.dll.config
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.dll
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\bin\WCF-A.pdb
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Release\WCF-A.dll
+c:\users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Release\WCF-A.pdb
+C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WCF-A\obj\Release\WCF-A.csprojResolveAssemblyReference.cache
+C:\Users\adamus\Desktop\WCF-A\WCF-A\bin\WCF-A.dll.config
+C:\Users\adamus\Desktop\WCF-A\WCF-A\bin\WCF-A.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-A\bin\WCF-A.pdb
+C:\Users\adamus\Desktop\WCF-A\WCF-A\obj\Release\WCF-A.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-A\obj\Release\WCF-A.pdb
+C:\Users\adamus\Desktop\WCF-A\WCF-A\obj\Release\WCF-A.csprojResolveAssemblyReference.cache

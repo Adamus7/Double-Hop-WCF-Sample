@@ -1,0 +1,5 @@
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.dll.config
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-B\bin\WCF-B.pdb
+C:\Users\adamus\Desktop\WCF-A\WCF-B\obj\Debug\WCF-B.dll
+C:\Users\adamus\Desktop\WCF-A\WCF-B\obj\Debug\WCF-B.pdb
