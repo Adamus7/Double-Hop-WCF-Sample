@@ -1,6 +1,0 @@
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\bin\WC-B.dll.config
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\bin\WC-B.dll
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\bin\WC-B.pdb
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\obj\Release\WC-B.dll
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\obj\Release\WC-B.pdb
-C:\Users\yuray\documents\visual studio 2013\Projects\WCF-A\WC-B\obj\Release\WCF-B.csprojResolveAssemblyReference.cache
